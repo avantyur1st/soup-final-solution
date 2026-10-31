@@ -5,7 +5,7 @@
 Triton-ядра и системные патчи в `solution/`, поверх неизменённого официального пайплайна Soup 0.77.0.
 
 **Публичный Kaggle Notebook с сохранённым выводом (Run All на финальном коммите):**
-https://www.kaggle.com/code/azeibarjanec/soup-final-submission
+https://www.kaggle.com/code/azeibarjanec/sert-team-submission
 
 ## Итог в двух числах
 
@@ -79,7 +79,7 @@ https://www.kaggle.com/code/azeibarjanec/soup-final-submission
 ### Ссылки
 - **Репозиторий команды (платформа):** https://github.com/avantyur1st/soup-final-solution
 - **Публичный Kaggle Notebook с сохранённым выводом:**
-  https://www.kaggle.com/code/azeibarjanec/soup-final-submission
+  https://www.kaggle.com/code/azeibarjanec/sert-team-submission
 
 ### Запуск на Kaggle T4
 1. Открыть указанный Kaggle Notebook.

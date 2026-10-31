@@ -6,7 +6,7 @@
        COMMIT в Kaggle-ноутбуке = этот же SHA. -->
 - Public Kaggle notebook, the saved version (`COMMIT` in it = the sha above; the same link must
   be in your README):
-  https://www.kaggle.com/code/azeibarjanec/soup-final-submission?scriptVersionId=`<VERSION>`
+  https://www.kaggle.com/code/azeibarjanec/sert-team-submission?scriptVersionId=`<VERSION>`
   <!-- Заполните <VERSION> после Save & Run All (номер сохранённой версии). -->
 - Demo video (up to 3 minutes): `<ССЫЛКА НА ВИДЕО>`
 - Presentation: `<ССЫЛКА НА ПРЕЗЕНТАЦИЮ ИЛИ ФАЙЛ В ЗАЯВКЕ>`
