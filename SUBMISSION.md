@@ -1,7 +1,7 @@
 # Submission: Sert Team
 
 ## Links
-- Repository, final commit: https://github.com/avantyur1st/soup-final-solution/commit/`<SHA>`
+- Repository, final commit: https://github.com/avantyur1st/soup-final-solution/commit/20186a5652284a239f37798de44a626ff498fb39
   <!-- После финального коммита замените <SHA> на вывод `git rev-parse HEAD`.
        COMMIT в Kaggle-ноутбуке = этот же SHA. -->
 - Public Kaggle notebook, the saved version (`COMMIT` in it = the sha above; the same link must
